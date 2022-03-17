@@ -7,9 +7,9 @@ Tengo 19 años y soy de Campana
 
 En mi tiempo libre me gusta
 
-  -Ver series  
-  -Escuchar musica  
-  -Jugar con mis perros
+  - Ver series  
+  - Escuchar musica  
+  - Jugar con mis perros
 
 Tengo dos pastores alemanes
 
